@@ -1,0 +1,9 @@
+event.json
+.idea
+target
+*.json-e
+dependency-reduced-pom.xml
+bucket-name.txt
+deploy.yml
+out.json
+build/
